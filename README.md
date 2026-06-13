@@ -1,14 +1,5 @@
 # Namaste-react
 
-// creting headig in react
-import React from "react";
-import ReactDOM from "react-dom/client";
-
-const heading = React.createElement(
-  "h1",
-  {},
-  "Hello from React"
-);
 // in jsx format
 const Title = () => {
     <h1 id="heading">Hello from Jsx 🚀</h1>};
